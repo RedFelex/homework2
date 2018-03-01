@@ -1,0 +1,19 @@
+Body {
+    background: royalblue  Url(../images/indexBackground.jpg) repeat-y;
+    background-size: 100%;
+}
+
+.title{
+    font-size: 40px;
+    text-align: center;
+}
+.leftimg{
+    float: left;
+    margin: 7px;
+}
+
+.textconditions{
+    font-family: Arial;
+    font-size:  25px;
+    text-align: justify;
+}
